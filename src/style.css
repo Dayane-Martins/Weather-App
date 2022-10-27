@@ -6,9 +6,10 @@
   margin: 20px auto;
   border: 1px solid #aba4a4e1;
   border-radius: 6px;
-  padding: 40px 25px;
+  padding: 40px 25px 5px 25px;
   max-width: 600px;
   background: #fff;
+  color: rgb(86, 83, 83);
 }
 
 .current-location {
@@ -54,7 +55,7 @@ ul {
 .unitF {
   text-decoration: none;
   font-weight: 600;
-  color: #202124;
+  color: rgb(86, 83, 83);
 }
 .unitF {
   font-size: 13px;
@@ -77,4 +78,12 @@ ul {
 
 h5 {
   font-size: 12px;
+}
+
+footer {
+  font-size: 12px;
+  text-align: center;
+}
+.github-link {
+  text-decoration: none;
 }
