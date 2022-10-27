@@ -1,0 +1,80 @@
+.container {
+  background-image: url(https://i.natgeofe.com/n/9429ee75-2538-4aa0-9495-5212eabb37ce/02-h_20_93020384_2x3.jpg);
+}
+
+.weather-app {
+  margin: 20px auto;
+  border: 1px solid #aba4a4e1;
+  border-radius: 6px;
+  padding: 40px 25px;
+  max-width: 600px;
+  background: #fff;
+}
+
+.current-location {
+  margin-top: 10px;
+}
+
+h1,
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-bottom: 0;
+  padding-top: 30px;
+  line-height: 18px;
+}
+
+.main-icon {
+  font-size: 35px;
+}
+
+li {
+  list-style: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  padding-left: 0rem;
+}
+
+.main-day {
+  font-size: 20px;
+}
+
+.precip-wind {
+  text-align: right;
+  font-size: 12px;
+}
+
+.unitC,
+.unitF {
+  text-decoration: none;
+  font-weight: 600;
+  color: #202124;
+}
+.unitF {
+  font-size: 13px;
+}
+
+.sky-condition {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.precipitation-wind {
+  text-align: right;
+  font-size: 12px;
+}
+
+.following-days {
+  margin: 35px 35px;
+  text-align: center;
+}
+
+h5 {
+  font-size: 12px;
+}
